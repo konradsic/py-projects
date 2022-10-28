@@ -132,3 +132,7 @@ dmypy.json
 # .vscode files
 .vscode
 settings.json
+
+# ignore images and python modules (custom)
+*.ignore.py
+*.ignore.png
