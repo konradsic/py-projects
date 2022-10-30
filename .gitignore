@@ -136,3 +136,6 @@ settings.json
 # ignore images and python modules (custom)
 *.ignore.py
 *.ignore.png
+
+# logger - logs
+logs.log

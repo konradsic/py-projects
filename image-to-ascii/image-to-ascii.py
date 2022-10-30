@@ -4,7 +4,7 @@ import colorama # yay colorful
 import time
 import math
 
-GRAYSCALE_ASCII = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'.        "
+GRAYSCALE_ASCII = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'.   "
 
 colorama.init(autoreset=True)
 CYAN = colorama.Fore.CYAN
