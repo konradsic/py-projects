@@ -139,3 +139,5 @@ settings.json
 
 # logger - logs
 logs.log
+
+.idea
